@@ -1,0 +1,13 @@
+.DS_Store
+
+# Ignorar pastas de dados
+Test_submission/
+Train_submission/
+.venv/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos temporários
+*.tmp
+
