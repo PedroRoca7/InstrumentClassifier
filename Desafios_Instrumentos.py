@@ -209,7 +209,7 @@ class App(QMainWindow):
                 audio_button_layout.addWidget(btn_audio, row, col)  # Adiciona o botão na grade
 
                 col += 1  # Move para a próxima coluna
-                if col >= 3:  # Se já tiver 3 botões na linha, vai para a próxima linha
+                if col >= 6:  # Se já tiver 6 botões na linha, vai para a próxima linha
                     col = 0
                     row += 1
 
